@@ -43,8 +43,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username.your-username" alt="Visitor Badge">
-</p>
