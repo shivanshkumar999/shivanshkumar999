@@ -31,7 +31,7 @@
 </p>
 
 - [Project 1: Sentiment Analysis & Customer Buying Behaviour using Logistic Regression](https://github.com/shivanshkumar999/SentimentAnalysis-BritishAirways)
-- [Project 2: Topic Modelling using BERTopic]([link_to_project2](https://github.com/shivanshkumar999/TopicModellingUsingBERTopic))
+- [Project 2: Topic Modelling using BERTopic]([link_to_project2](https://github.com/shivanshkumar999/TopicModellingUsingBERTopic)
 - [Project 3: Colorify - Colourize Black and White Images using Deep Learning and Convulational Neural Networks](https://github.com/shivanshkumar999/Colorify-ColorizeBlacknWhiteImagesUsingDeepLearning)
 
 <!-- Let's Connect -->
