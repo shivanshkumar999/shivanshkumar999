@@ -30,20 +30,17 @@
   💼 Some of my projects include:
 </p>
 
-- [Project 1: Machine Learning Model for Image Recognition](link_to_project1)
-- [Project 2: Data Analysis and Visualization of COVID-19 Data](link_to_project2)
-- [Project 3: Predictive Analytics for Stock Market](link_to_project3)
+- [Project 1: Sentiment Analysis & Customer Buying Behaviour using Logistic Regression](https://github.com/shivanshkumar999/SentimentAnalysis-BritishAirways)
+- [Project 2: Topic Modelling using BERTopic]([link_to_project2](https://github.com/shivanshkumar999/TopicModellingUsingBERTopic))
+- [Project 3: Colorify - Colourize Black and White Images using Deep Learning and Convulational Neural Networks](https://github.com/shivanshkumar999/Colorify-ColorizeBlacknWhiteImagesUsingDeepLearning)
 
 <!-- Let's Connect -->
 <p align="center">
   📫 Let's connect and collaborate:
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/shivansh-kumar-2171381b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Handle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
