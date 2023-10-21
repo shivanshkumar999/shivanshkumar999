@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href="https://shivanshkumar.onrender.com/">Shivansh Kumar's Site</a>
+<a href="https://shivanshkumar.onrender.com/" target="_blank">Shivansh Kumar's WebSite</a>
 </p>
 <!-- Introduction -->
 <p align="center">
