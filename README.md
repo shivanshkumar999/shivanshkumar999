@@ -9,11 +9,12 @@
 </p>
 
 <p align="center">
-<a href="https://shivanshkumar.onrender.com/" target="_blank">Shivansh Kumar's WebSite</a>
+  <a href="https://shivanshkumar.onrender.com/" target="_blank">Shivansh Kumar's Website</a>
 </p>
+
 <!-- Introduction -->
 <p align="center">
-  Hi, I'm Shivansh Kumar, a budding data scientist and machine learning enthusiast from [Your Location]. I'm deeply passionate about exploring the world of data and using it to make informed decisions and predictions.
+  Hi, I'm Shivansh Kumar, a budding data scientist and machine learning enthusiast from India. I'm deeply passionate about exploring the world of data and using it to make informed decisions and predictions.
 </p>
 
 <!-- Technologies -->
