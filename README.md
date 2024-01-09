@@ -46,6 +46,8 @@
   <a href="https://www.linkedin.com/in/shivansh-kumar-2171381b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
+<p align="center">
   <a href="https://shivanshkumar.onrender.com/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Website-0077B5?logo=Google%20Chrome&logoColor=white">
   </a>
