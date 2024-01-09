@@ -46,8 +46,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://shivanshkumar.onrender.com/" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Website%20?logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EGoogle%20Chrome%3C%2Ftitle%3E%3Cpath%20d%3D%22M12%200C8.21%200%204.831%201.757%202.632%204.501l3.953%206.848A5.454%205.454%200%200%201%2012%206.545h10.691A12%2012%200%200%200%2012%200zM1.931%205.47A11.943%2011.943%200%200%200%200%2012c0%206.012%204.42%2010.991%2010.189%2011.864l3.953-6.847a5.45%205.45%200%200%201-6.865-2.29zm13.342%202.166a5.446%205.446%200%200%201%201.45%207.09l.002.001h-.002l-5.344%209.257c.206.01.413.016.621.016%206.627%200%2012-5.373%2012-12%200-1.54-.29-3.011-.818-4.364zM12%2016.364a4.364%204.364%200%201%201%200-8.728%204.364%204.364%200%200%201%200%208.728Z%22%2F%3E%3C%2Fsvg%3E&logoColor=%234285F4">
-
-
+    <img alt="Static Badge" src="https://img.shields.io/badge/Website%20-%20Shivansh%20Kumar?logo=Google%20Chrome&logoColor=white">
   </a>
 </p>
