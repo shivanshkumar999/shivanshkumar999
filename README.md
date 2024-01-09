@@ -46,6 +46,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://shivanshkumar.onrender.com/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fshivanshkumar.onrender.com%2F&up_message=Shivansh%20Kumar&logo=googlechrome">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Website%20?logo=googlechrome&logoColor=%234285F4">
+
   </a>
 </p>
