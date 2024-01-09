@@ -45,9 +45,7 @@
   <a href="https://www.linkedin.com/in/shivansh-kumar-2171381b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
-<p>
-  <a href="https://www.linkedin.com/in/shivansh-kumar-2171381b3/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/website" alt="website">
+  <a href="[https://www.linkedin.com/in/shivansh-kumar-2171381b3/](https://shivanshkumar.onrender.com/)" target="_blank">
+    <img alt="Website" src="https://img.shields.io/website">
   </a>
 </p>
