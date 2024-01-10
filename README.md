@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/Data%20Science-Lover-blue?style=flat-square">
 </p>
 
-<p align="center">
-  <a href="https://shivanshkumar.onrender.com/" target="_blank">Shivansh Kumar's Website</a>
-</p>
-
 <!-- Introduction -->
 <p align="center">
   Hi, I'm Shivansh Kumar, a budding data scientist and machine learning enthusiast from India. I'm deeply passionate about exploring the world of data and using it to make informed decisions and predictions.
